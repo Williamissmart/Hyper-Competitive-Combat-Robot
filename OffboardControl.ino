@@ -3,6 +3,7 @@
 #include <WiFiUdp.h>
 #include <Wire.h>
 
+
 #define MPU9250_ADDR 0x68
 
 // WiFi credentials for PC's hotspot
